@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://luigi-marini.github.io/posts/second/</loc>
-    <lastmod>2019-04-02T22:39:11+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luigi-marini.github.io/blog/</loc>
     <lastmod>2019-04-02T22:18:04+01:00</lastmod>
   </url>
@@ -28,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://luigi-marini.github.io/posts/my-first-post/</loc>
-    <lastmod>2019-04-02T22:03:31+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luigi-marini.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -40,12 +30,6 @@
   <url>
     <loc>https://luigi-marini.github.io/</loc>
     <lastmod>2019-04-02T23:04:12+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://luigi-marini.github.io/posts/</loc>
-    <lastmod>2019-04-02T22:39:11+01:00</lastmod>
     <priority>0</priority>
   </url>
   
