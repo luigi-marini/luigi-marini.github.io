@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luigi Marini</title>
+    <link>https://luigi-marini.github.io/</link>
+    <description>Recent content on Luigi Marini</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Apr 2019 23:04:12 +0100</lastBuildDate>
+    
+        <atom:link href="https://luigi-marini.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contacts</title>
+      <link>https://luigi-marini.github.io/contacts/</link>
+      <pubDate>Tue, 02 Apr 2019 23:04:12 +0100</pubDate>
+      
+      <guid>https://luigi-marini.github.io/contacts/</guid>
+      <description>&lt;p&gt;Email: &lt;tt&gt;&lt;A HREF=&#34;mailto:&amp;#108;&amp;#117;&amp;#105;&amp;#103;i.&amp;#109;&amp;#97;&amp;#114;i&amp;#110;i&amp;#64;&amp;#112;&amp;#111;li&amp;#116;i&amp;#99;&amp;#115;.o&amp;#120;.ac.u&amp;#107;&#34;&gt;
+&amp;#108;&amp;#117;&amp;#105;&amp;#103;i.&amp;#109;&amp;#97;&amp;#114;i&amp;#110;i&amp;#64;&amp;#112;&amp;#111;li&amp;#116;i&amp;#99;&amp;#115;.o&amp;#120;.ac.u&amp;#107;&lt;/A&gt;&lt;/tt&gt;&lt;/p&gt;
+
+&lt;p&gt;University College &lt;br&gt;
+High Street &lt;br&gt;
+Oxford &lt;br&gt;
+OX1 4BH&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>https://luigi-marini.github.io/posts/second/</link>
+      <pubDate>Tue, 02 Apr 2019 22:39:11 +0100</pubDate>
+      
+      <guid>https://luigi-marini.github.io/posts/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://luigi-marini.github.io/blog/</link>
+      <pubDate>Tue, 02 Apr 2019 22:18:04 +0100</pubDate>
+      
+      <guid>https://luigi-marini.github.io/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://luigi-marini.github.io/research/</link>
+      <pubDate>Tue, 02 Apr 2019 22:07:26 +0100</pubDate>
+      
+      <guid>https://luigi-marini.github.io/research/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Under construction&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://luigi-marini.github.io/teaching/</link>
+      <pubDate>Tue, 02 Apr 2019 22:07:26 +0100</pubDate>
+      
+      <guid>https://luigi-marini.github.io/teaching/</guid>
+      <description>&lt;p&gt;I teach comparative politics, focusing on causal theories and empirical evidence in the study of political structures and institutions, attitudes and behaviours.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Undergraduate Courses, University of Oxford&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Introduction to the Practice of Politics&lt;/li&gt;
+&lt;li&gt;Comparative Government&lt;/li&gt;
+&lt;li&gt;Political Sociology&lt;/li&gt;
+&lt;li&gt;Politics in Europe&lt;/li&gt;
+&lt;li&gt;Politics of the European Union&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- &lt;p&gt;Specifically, at Univ, I teach the first-year course Introduction to the Practice of Politics and the second-year core courses in Comparative Government and Political Sociology, as well as further options on Politics in Europe, to undergraduate students doing &lt;a class=&#34;highlight&#34; href=&#34;https://www.ppe.ox.ac.uk/&#34;&gt;Philosophy, Politics and Economics&lt;/a&gt; and &lt;a class=&#34;highlight&#34; href=&#34;https://www.ox.ac.uk/admissions/undergraduate/courses-listing/history-and-politics?wssl=1&#34;&gt;History and Politics&lt;/a&gt; degrees. I have also previously taught the politics of the European Union and quantitative methods in politics and sociology.&lt;/p&gt; --&gt;
+
+&lt;p&gt;Please visit the University of Oxford intranet (&lt;a class=&#34;highlight&#34; href=&#34;https://weblearn.ox.ac.uk/portal&#34;&gt;WebLearn&lt;/a&gt;) or contact me by email for details and teaching material.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://luigi-marini.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 02 Apr 2019 22:03:31 +0100</pubDate>
+      
+      <guid>https://luigi-marini.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
