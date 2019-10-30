@@ -24,6 +24,10 @@ body {
 	text-rendering: optimizeLegibility;
 }
 
+kbd {
+  font-family: 'Roboto Mono', monospace;
+}
+
 header {
 	display: block;
 	padding: 1.3rem 0;
