@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
 /* reset */
 
 * {
@@ -192,7 +193,7 @@ p a {
 
 code,
 pre {
-	font-family: Menlo, Monaco, 'Courier New', monospace;
+	font-family: 'Roboto Mono', monospace;
 }
 
 code {
